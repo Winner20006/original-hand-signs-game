@@ -9,10 +9,10 @@ class AbilityType(Enum):
 # Mapping sequences of signs to abilities
 # Each sequence is a list of sign names (strings)
 COMBOS = {
-    AbilityType.WALL: ["hare", "snake"],
-    AbilityType.FIREBALL: ["snake", "ram"],
-    AbilityType.HEAVY_ATTACK: ["dragon", "dog"],
-    AbilityType.WATER_BALL: ["hare", "ram"]
+    AbilityType.WALL: ["snake"],
+    AbilityType.FIREBALL: ["horse"],
+    AbilityType.HEAVY_ATTACK: ["dog"],
+    AbilityType.WATER_BALL: ["dragon"]
 }
 
 COOLDOWNS = {

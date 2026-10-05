@@ -50,10 +50,10 @@ The project leverages computer vision to detect hand signs within specific Regio
 ### ✨ Ability Combos
 | Ability | Combo Sequence |
 | :--- | :--- |
-| *Fireball* 🔥 | snake ➔ horse |
-| *Water Ball* 💧 | hare ➔ ram |
-| *Heavy Attack* 💥 | dragon ➔ dog |
-| *Skeleton Wall* 🛡️ | hare ➔ snake |
+| *Fireball* 🔥 | horse |
+| *Water Ball* 💧 | dragon |
+| *Heavy Attack* 💥 | dog |
+| *Skeleton Wall* 🛡️ | snake |
 
 ### 🛠️ Customizing Moves
 To change the sequence of moves or their cooldowns, you need to modify the logic/abilities.py file.
